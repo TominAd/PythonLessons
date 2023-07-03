@@ -1,0 +1,16 @@
+- AWS Security - Specialty
+- AWS Solutions Architect - Associate
+- AWS Developer - Associate
+- AWS SysOps Administrator - Associate
+- AWS DevOps Engineer - Professional
+- AWS Solutions Architect - Professional
+- AWS Cloud Practitioner
+- MTA - Networking
+- MTA - Windows Server Administration
+- LPI - LInux Essentials
+- SumoLogic Admin
+- New Relic Performance Pro
+- Google Cloud Platform - Associate Cloud Engineer
+- Google Cloud Platform - Professional Cloud Architect
+- Microsoft Azure: Azure Fundamentals
+- HashiCorp Certified Terraform Associate

@@ -6,7 +6,7 @@ import time
 MAX_X = 1920
 MAX_Y = 1080
 MAX_SNOW = 100
-SNOW_SIZE =64
+SNOW_SIZE = 64
 
 class Snow():
     def __init__(self, x, y):

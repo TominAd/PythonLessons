@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # my WebPage1 добавляем сюда страници по образцу
+    'MyWebPage1',
 ]
 
 MIDDLEWARE = [
